@@ -3,7 +3,7 @@
 
 <br>
 
-<Strong>📧Email📧</Strong><br>osj982@naver.com<br>
+<Strong>📧Email📧</Strong><br>yh_329@naver.com<br>
 
 </p>
 
