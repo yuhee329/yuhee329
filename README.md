@@ -1,5 +1,5 @@
 ### YuHee 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=333333&height=300&section=header&text=YuHee's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=F5F5DC)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=YuHee's%30GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <br>
 
