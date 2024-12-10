@@ -13,7 +13,7 @@
 </div>
 <div align="center">
     
-    Embedded Developer 취업준비생
+    Embedded Developer 
 </div>
     
 ## 기술 스택
